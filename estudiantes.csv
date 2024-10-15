@@ -1,0 +1,101 @@
+ID del Estudiante,Nombre,Apellido_1,Apellido_2,Edad,Sexo,Nacionalidad,Universidad,Carrera,Año de Estudio,Costo_por_año_USD
+1,Fernando,González,González,28,Femenino,Francés,Universidad de Colombia,Ciencias Sociales,4 años,7000
+2,Ana,Rodríguez,García,19,Masculino,Español,Universidad de Colombia,Ingenieria,4 años,6000
+3,Juan,Martínez,Hernández,18,Masculino,Italiano,Universidad de Brasil,Economía,2 años,3000
+4,Laura,Jiménez,Díaz,29,Femenino,Italiano,Universidad de Brasil,Medicina,1 año,3000
+5,María,Hernández,González,22,Femenino,Alemán,Universidad de Brasil,Ciencias Sociales,2 años,3000
+6,Isabel,Jiménez,Hernández,21,Femenino,Irlandés,Universidad de Argentina,Geografia,2 años,4000
+7,Juan,Pérez,Ramírez,21,Femenino,Estadounidense,Universidad de Peru,Geografia,2 años,3000
+8,Sofía,López,García,20,Femenino,Colombiano,Universidad de Brasil,Economía,4 años,6000
+9,Fernando,Ramírez,Jiménez,29,Femenino,Boliviano,Universidad de Chile,Geografia,1 año,6000
+10,Sofía,González,Pérez,19,Masculino,Peruano,Universidad de Bolivia,Ciencias Sociales,2 años,1000
+11,Carlos,Hernández,Martínez,28,Masculino,Mexicano,Universidad de Brasil,Medicina,5 años,7000
+12,Laura,Rodríguez,Rodríguez,29,Masculino,Francés,Universidad de Bolivia,Ingenieria,5 años,5000
+13,Jose,Ramírez,López,26,Masculino,Mexicano,Universidad de Peru,Arquitectura,1 año,6000
+14,Jose,Hernández,López,19,Masculino,Boliviano,Universidad de Chile,Geografia,3 años,5000
+15,Daniel,Pérez,Jiménez,27,Femenino,Peruano,Universidad de Colombia,Medicina,4 años,4000
+16,Isabel,Rodríguez,Rodríguez,24,Femenino,Irlandés,Universidad de Bolivia,Medicina,3 años,6000
+17,María,López,García,18,Masculino,Mexicano,Universidad de Brasil,Medicina,2 años,7000
+18,Fernando,López,Díaz,18,Femenino,Chileno,Universidad de Peru,Economía,3 años,2000
+19,Fernando,García,Hernández,19,Masculino,Brasilero,Universidad de Peru,Ingenieria,6 años,6000
+20,Sofía,Ramírez,Pérez,21,Femenino,Colombiano,Universidad de Peru,Geografia,4 años,4000
+21,Isabel,Ramírez,Ramírez,21,Masculino,Estadounidense,Universidad de Bolivia,Ciencias Sociales,5 años,4000
+22,Carlos,González,Rodríguez,26,Masculino,Chileno,Universidad de Colombia,Ciencias Sociales,6 años,4000
+23,Carlos,Rodríguez,González,27,Masculino,Español,Universidad de Bolivia,Arquitectura,5 años,6000
+24,Fernando,Díaz,Pérez,18,Femenino,Colombiano,Universidad de Chile,Medicina,3 años,2000
+25,Juan,González,Pérez,26,Masculino,Mexicano,Universidad de Colombia,Ciencias Sociales,1 año,6000
+26,Juan,Jiménez,García,21,Femenino,Colombiano,Universidad de Bolivia,Ciencias Sociales,3 años,6000
+27,Ana,López,Díaz,29,Femenino,Español,Universidad de Colombia,Economía,5 años,1000
+28,Ana,Pérez,Ramírez,28,Masculino,Italiano,Universidad de Argentina,Economía,6 años,7000
+29,Jose,Díaz,Hernández,29,Masculino,Británico,Universidad de Brasil,Ciencias Sociales,6 años,2000
+30,Laura,Ramírez,Rodríguez,26,Femenino,Estadounidense,Universidad de Brasil,Ingenieria,3 años,4000
+31,Carlos,Pérez,González,24,Femenino,Brasilero,Universidad de Peru,Economía,5 años,5000
+32,Carlos,López,Martínez,21,Masculino,Británico,Universidad de Argentina,Arquitectura,4 años,3000
+33,Sofía,Martínez,López,25,Masculino,Argentino,Universidad de Colombia,Medicina,4 años,1000
+34,Sofía,Ramírez,Hernández,27,Masculino,Brasilero,Universidad de Peru,Arquitectura,2 años,6000
+35,Jose,López,González,22,Femenino,Colombiano,Universidad de Chile,Geografia,2 años,2000
+36,Fernando,Díaz,Pérez,30,Femenino,Español,Universidad de Bolivia,Ciencias Sociales,3 años,2000
+37,Isabel,Díaz,Díaz,18,Masculino,Brasilero,Universidad de Colombia,Geografia,1 año,6000
+38,Sofía,Pérez,Rodríguez,30,Masculino,Estadounidense,Universidad de Chile,Ingenieria,3 años,3000
+39,Fernando,Jiménez,Martínez,30,Masculino,Peruano,Universidad de Bolivia,Ciencias Sociales,5 años,7000
+40,Fernando,González,González,20,Femenino,Brasilero,Universidad de Argentina,Economía,3 años,5000
+41,Isabel,Ramírez,Pérez,29,Femenino,Español,Universidad de Peru,Geografia,1 año,2000
+42,Jose,López,López,24,Femenino,Estadounidense,Universidad de Peru,Geografia,3 años,1000
+43,Laura,Díaz,López,23,Femenino,Irlandés,Universidad de Brasil,Economía,1 año,7000
+44,Fernando,Pérez,Ramírez,22,Masculino,Colombiano,Universidad de Brasil,Economía,4 años,1000
+45,Isabel,Pérez,Pérez,20,Femenino,Italiano,Universidad de Bolivia,Ciencias Sociales,1 año,6000
+46,Daniel,López,Ramírez,21,Femenino,Francés,Universidad de Brasil,Economía,3 años,4000
+47,Ana,Ramírez,Hernández,30,Femenino,Estadounidense,Universidad de Bolivia,Arquitectura,4 años,6000
+48,Juan,González,Pérez,23,Masculino,Brasilero,Universidad de Peru,Medicina,1 año,5000
+49,María,Rodríguez,López,19,Femenino,Brasilero,Universidad de Peru,Ciencias Sociales,4 años,5000
+50,Sofía,López,Hernández,19,Masculino,Argentino,Universidad de Colombia,Ingenieria,1 año,4000
+51,Laura,Martínez,Jiménez,24,Masculino,Colombiano,Universidad de Brasil,Geografia,3 años,6000
+52,Carlos,López,García,19,Masculino,Irlandés,Universidad de Chile,Geografia,1 año,1000
+53,Juan,López,Hernández,23,Femenino,Español,Universidad de Brasil,Economía,3 años,2000
+54,Fernando,González,González,23,Femenino,Italiano,Universidad de Brasil,Medicina,2 años,5000
+55,Fernando,Martínez,Ramírez,27,Masculino,Alemán,Universidad de Colombia,Medicina,2 años,3000
+56,Isabel,Rodríguez,Pérez,22,Femenino,Alemán,Universidad de Colombia,Medicina,5 años,5000
+57,Laura,Hernández,Jiménez,30,Masculino,Peruano,Universidad de Peru,Ciencias Sociales,3 años,4000
+58,Jose,López,Hernández,18,Femenino,Irlandés,Universidad de Chile,Ciencias Sociales,5 años,4000
+59,Ana,Pérez,Martínez,29,Femenino,Boliviano,Universidad de Brasil,Ingenieria,5 años,3000
+60,Ana,Jiménez,Hernández,25,Masculino,Colombiano,Universidad de Argentina,Ciencias Sociales,2 años,6000
+61,Jose,García,Hernández,26,Femenino,Francés,Universidad de Bolivia,Economía,1 año,3000
+62,María,Jiménez,Hernández,19,Femenino,Peruano,Universidad de Peru,Arquitectura,1 año,5000
+63,Carlos,Jiménez,Jiménez,24,Masculino,Británico,Universidad de Brasil,Ingenieria,4 años,2000
+64,Ana,Díaz,Hernández,19,Femenino,Argentino,Universidad de Brasil,Economía,6 años,2000
+65,Isabel,Martínez,Díaz,26,Femenino,Boliviano,Universidad de Brasil,Geografia,3 años,1000
+66,Daniel,Hernández,Hernández,22,Femenino,Mexicano,Universidad de Chile,Ciencias Sociales,4 años,2000
+67,Laura,Díaz,Ramírez,28,Femenino,Chileno,Universidad de Brasil,Medicina,5 años,1000
+68,Isabel,Ramírez,Hernández,27,Masculino,Argentino,Universidad de Peru,Economía,4 años,4000
+69,Isabel,González,Martínez,23,Masculino,Mexicano,Universidad de Chile,Ciencias Sociales,5 años,6000
+70,Fernando,García,González,27,Masculino,Peruano,Universidad de Colombia,Geografia,6 años,2000
+71,Carlos,López,López,21,Femenino,Mexicano,Universidad de Brasil,Ingenieria,2 años,2000
+72,Ana,López,Jiménez,29,Femenino,Argentino,Universidad de Chile,Medicina,1 año,4000
+73,Sofía,Díaz,García,19,Femenino,Colombiano,Universidad de Brasil,Medicina,1 año,6000
+74,Jose,Díaz,Pérez,18,Masculino,Boliviano,Universidad de Chile,Ingenieria,1 año,7000
+75,Fernando,González,Jiménez,28,Masculino,Argentino,Universidad de Colombia,Economía,5 años,4000
+76,Isabel,López,Rodríguez,21,Femenino,Italiano,Universidad de Chile,Ciencias Sociales,4 años,2000
+77,Juan,González,Rodríguez,30,Femenino,Peruano,Universidad de Peru,Arquitectura,2 años,1000
+78,Laura,Jiménez,López,22,Masculino,Peruano,Universidad de Brasil,Geografia,5 años,2000
+79,Fernando,González,Ramírez,19,Masculino,Irlandés,Universidad de Brasil,Ingenieria,5 años,2000
+80,Jose,Hernández,López,21,Masculino,Boliviano,Universidad de Colombia,Ciencias Sociales,2 años,2000
+81,Ana,Rodríguez,Ramírez,19,Femenino,Chileno,Universidad de Chile,Arquitectura,4 años,1000
+82,María,González,Díaz,24,Femenino,Argentino,Universidad de Argentina,Economía,5 años,4000
+83,María,Ramírez,Pérez,22,Masculino,Peruano,Universidad de Colombia,Medicina,1 año,2000
+84,Fernando,Martínez,Díaz,25,Masculino,Británico,Universidad de Chile,Medicina,5 años,7000
+85,Daniel,Hernández,González,28,Femenino,Francés,Universidad de Colombia,Arquitectura,6 años,4000
+86,María,Hernández,Díaz,23,Masculino,Británico,Universidad de Peru,Geografia,1 año,5000
+87,Fernando,Díaz,Jiménez,20,Femenino,Español,Universidad de Colombia,Arquitectura,1 año,1000
+88,Carlos,Díaz,Martínez,23,Masculino,Británico,Universidad de Colombia,Arquitectura,2 años,7000
+89,Isabel,Díaz,Rodríguez,23,Masculino,Francés,Universidad de Brasil,Geografia,5 años,4000
+90,Daniel,Martínez,Ramírez,21,Femenino,Colombiano,Universidad de Brasil,Medicina,6 años,7000
+91,Laura,Martínez,Rodríguez,28,Femenino,Francés,Universidad de Colombia,Geografia,3 años,5000
+92,Jose,Jiménez,Ramírez,22,Masculino,Estadounidense,Universidad de Bolivia,Medicina,5 años,4000
+93,María,Jiménez,Díaz,29,Masculino,Peruano,Universidad de Argentina,Geografia,1 año,4000
+94,María,Díaz,Jiménez,28,Femenino,Británico,Universidad de Brasil,Arquitectura,5 años,2000
+95,Isabel,García,Ramírez,28,Femenino,Mexicano,Universidad de Bolivia,Medicina,4 años,1000
+96,Jose,García,Ramírez,19,Masculino,Francés,Universidad de Brasil,Economía,1 año,7000
+97,Laura,Hernández,Díaz,27,Femenino,Español,Universidad de Peru,Ciencias Sociales,5 años,4000
+98,Isabel,Ramírez,Martínez,28,Masculino,Estadounidense,Universidad de Brasil,Ciencias Sociales,6 años,6000
+99,Fernando,Ramírez,Jiménez,20,Masculino,Peruano,Universidad de Colombia,Geografia,4 años,3000
+100,Laura,Jiménez,García,26,Masculino,Español,Universidad de Brasil,Medicina,1 año,1000
